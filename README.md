@@ -13,3 +13,4 @@ The page presents information about myself and my academic achievments and progr
 + Add about file to public folder.
 + Add contact file to public folder.
 + Add net file to public folder.
++ Add degree file to public folder.
