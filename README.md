@@ -11,3 +11,4 @@ The page presents information about myself and my academic achievments and progr
 + Add first information to README.
 + Add CSS file to its folder.
 + Add about file to public folder.
++ Add contact file to public folder.
