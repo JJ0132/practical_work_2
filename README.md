@@ -9,3 +9,4 @@ The page presents information about myself and my academic achievments and progr
 + Create docs, css, public and images folders.
 + Create index.html into docs folder.
 + Add first information to README.
++ Add CSS file to its folder.
