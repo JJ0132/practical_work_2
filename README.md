@@ -18,3 +18,4 @@ The page presents information about myself and my academic achievments and progr
 + Add the images folder.
 + Add the images to the images folder.
 + Finishing index, topic, degree, fce and contact files and adding them to the repository.
++ Updating CSS file.
