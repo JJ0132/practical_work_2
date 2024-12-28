@@ -1,0 +1,309 @@
+body {
+    background-color: black;
+    text-align: justify;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin: 0;
+    height: 100%;
+}
+
+h2{
+    color: white;
+    text-align: center;
+}
+
+.top-container {
+    background-color: grey;
+    padding: 15px;
+    display: grid;
+    grid-template-columns: 20% 80%;
+}
+
+.left{
+    text-align: left;
+    align-items: center;
+}
+
+.left a{
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: none;
+}
+
+.right {
+    display: flex;
+    gap: 25px;
+    align-items: center;
+    margin-left: auto;
+}
+
+.right a{
+    margin: 0%;
+    text-decoration: none;
+    font-size: large;
+    color: black;
+    border: 10px;
+}
+
+.link:hover {
+    color: white;
+    font-size: larger;
+    text-decoration: underline;
+}
+
+.first-container p{
+    height: auto;
+    color: white;
+}
+
+.webpage {
+    font-size: xx-large;
+    margin-top: 15px;
+    margin-bottom: 10px;
+    text-align: center;
+    color: white;
+}
+
+.contents {
+    font-size: x-large;
+    margin-top: 15px;
+}
+
+.content {
+    color: white;
+    text-align: left;
+}
+
+.content a{
+    color: white;
+    text-decoration: none;
+}
+
+.content li{
+    font-size: large;
+}
+
+.content a:hover{
+    color: red;
+    text-decoration: underline;
+}
+
+.second-container{
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.second-container img{
+    width: 700px;
+    align-items: center;
+}
+
+.footer{
+    background-color: gray;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+
+.footer-right{
+    text-align: right;
+}
+
+.footer-right img{
+    margin-right: 13px;
+    margin-top: 5px;
+    height: 40px;
+    display: block;
+    margin-left: auto;
+    
+}
+
+.footer-right img:hover{
+    height: 50px;
+}
+
+.footer-left{
+    text-align: left;
+}
+
+.footer-left{
+    margin-left: 13px;
+}
+
+.contact-all{
+    background-color: gray;
+    height: 500px;
+    margin: 10%;
+    padding-top: 5%;
+    margin-top: 5%;
+}
+
+.contact-all input{
+    background-color: black;
+    color: white;
+    width: 500px;
+    height: 50px;
+    text-align: center;
+    align-items: center;
+}
+
+.contact-all input::placeholder{
+    color: white;
+}
+
+.contact-all textarea::placeholder{
+    color: white;
+    padding-top: 15px;
+}
+
+.contact-all textarea{
+    background-color: black;
+    color: white;
+    width: 500px;
+    height: 50px;
+    text-align: center;
+    align-items: center;
+}
+
+.send{
+    background-color: black;
+    color: white;
+    margin-top: 10%;
+    height: 35px;
+    width: 125px;
+    cursor: pointer;
+}
+
+h1{
+    color: white;
+    text-align: center;
+    align-items: center;
+}
+
+.crypto-photo{
+    height: 600px;
+}
+
+.crypto-container{
+    color: white;
+    display: grid;
+    grid-template-columns: 50% 50%;
+    flex: 1;
+}
+
+.crypto-left{
+    text-align: justify;
+    align-items: center;
+    margin-right: 5%;
+}
+
+.crypto-right{
+    text-align: justify;
+}
+
+.crypto-right ol{
+    font-size: large;
+}
+
+.computer-engineering{
+    height: 300px;
+}
+
+.degree-over{
+    color: white;
+    text-align: justify;
+}
+
+.degree-over p{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.degree-hist{
+    color: white;
+    text-align: justify;
+}
+
+.degree-hist p{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.degree-about{
+    color: white;
+    text-align: justify;
+}
+
+.degree-about p{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.degree-prof{
+    color: white;
+    text-align: justify;
+}
+
+.degree-prof p{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.degree-subj{
+    color: white;
+    text-align: justify;
+}
+
+.degree-subj p{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.degree-subj a{
+    color: white;
+    text-decoration: none;
+}
+
+.degree-subj a:hover{
+    color: red;
+    text-decoration: underline;
+}
+
+.FCE-subj{
+    color: white;
+    text-align: justify;
+}
+
+.FCE-subj p{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.FCE-prop{
+    color: white;
+    text-align: justify;
+}
+
+.FCE-prop p{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.net-n{
+    color: white;
+    text-align: justify;
+}
+
+.net-n p{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.net-li{
+    color: white;
+    text-align: justify;
+}
