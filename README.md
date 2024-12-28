@@ -15,3 +15,5 @@ The page presents information about myself and my academic achievments and progr
 + Add net file to public folder.
 + Add degree file to public folder.
 + Add topic file to public folder.
++ Add the images folder.
++ Add the images to the images folder.
