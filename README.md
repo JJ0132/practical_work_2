@@ -19,3 +19,5 @@ The page presents information about myself and my academic achievments and progr
 + Add the images to the images folder.
 + Finishing index, topic, degree, fce and contact files and adding them to the repository.
 + Updating CSS file.
+
++ I had an error when changing the pages because paths were wrong in two footers. Now is fixed. 
