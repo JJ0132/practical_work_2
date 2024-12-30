@@ -24,3 +24,5 @@ The page presents information about myself and my academic achievments and progr
 + Finishing net file with four classmates links.
 + Add photos for about file
 + Finishing about file and adding it.
+
++ Had a problem with the deployment of about file but now is fixed.
