@@ -307,3 +307,31 @@ h1{
     color: white;
     text-align: justify;
 }
+
+.net-link{
+    color: white;
+    text-decoration: none;
+}
+
+.net-link:hover{
+    color: red;
+    text-decoration: underline;
+    font-size: larger;
+}
+
+.presentation{
+    color: white;
+}
+
+.presentation ul{
+    text-align: justify;
+}
+
+.CV{
+    color: white;
+    text-align: justify;
+}
+
+.social-media{
+    color: white;
+}
