@@ -22,3 +22,4 @@ The page presents information about myself and my academic achievments and progr
 
 + I had an error when changing the pages because paths were wrong in two footers. Now is fixed. 
 + Finishing net file with four classmates links.
++ Add photos for about file
